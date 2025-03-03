@@ -1,17 +1,15 @@
 {
   "name": "vs-competitive-starter",
-  "displayName": "vs-competitive-starter",
-  "description": "",
+  "displayName": "Competitive Programming Templates (AtCoder & Paiza)",
+  "description": "A VS Code extension for generating AtCoder and Paiza Learning templates.",
+  "publisher": "s-renren",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
   },
   "categories": [
-    "Other"
-  ],
-  "activationEvents": [
-    "onCommand::vs-competitive-starter.AtCoder",
-    "onCommand::vs-competitive-starter.PaizaLearning"
+    "Programming Languages",
+    "Snippets"
   ],
   "main": "./dist/extension.js",
   "contributes": {
