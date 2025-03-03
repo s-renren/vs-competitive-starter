@@ -3,7 +3,7 @@
   "displayName": "Competitive Programming Templates (AtCoder & Paiza)",
   "description": "A VS Code extension for generating AtCoder and Paiza Learning templates.",
   "publisher": "s-renren",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.97.0"
   },
