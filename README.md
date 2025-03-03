@@ -1,6 +1,6 @@
-# Competitive Programming Templates (AtCoder & Paiza)
+# Competitive Programming TypeScript Templates for AtCoder
 
-**Competitive Programming Templates (AtCoder & Paiza)** は、競技プログラミング用のテンプレートを簡単に挿入できる VS Code 拡張機能です。  
+**Competitive Programming TypeScript Templates for AtCoder** は、競技プログラミング用のテンプレートを簡単に挿入できる VS Code 拡張機能です。  
 AtCoder や Paiza Learning でのコーディングをスムーズに始められるように、適切なコードテンプレートを簡単に生成できます。
 
 ## 機能

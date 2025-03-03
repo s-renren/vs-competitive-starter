@@ -1,9 +1,9 @@
 {
   "name": "vs-competitive-starter",
-  "displayName": "Competitive Programming Templates (AtCoder & Paiza)",
-  "description": "A VS Code extension for generating AtCoder and Paiza Learning templates.",
+  "displayName": "Competitive Programming TypeScript Templates for AtCoder",
+  "description": "A VS Code extension for generating TypeScript AtCoder templates.",
   "publisher": "s-renren",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.97.0"
   },
